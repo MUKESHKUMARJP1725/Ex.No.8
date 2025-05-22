@@ -1,9 +1,9 @@
 ## Experiment No.8
 ## Reproducing an Image Using Prompts for Image Generation 
  
-### NAME MUKESH KUMAR J.P 
+### Name: MUKESH KUMAR J.P 
   
-### Register no. 212222223002 
+### Register no: 212222223002 
  ``` 
 Aim 
   
